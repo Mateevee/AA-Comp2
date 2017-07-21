@@ -1,0 +1,46 @@
+0 0# Bem-vindo (a) ao Liga das Lendas, embarque nessa nova aventura onde você decidira seu destino, seja ele vitorioso e cheio de emoção, ou não. Contudo esteja sempre preparado para surpresas e mistérios.
+1 1# Gostaria de saber mais da história?
+1 2# Está preparado para entrar nas ligas?
+1 3# Muito bem, diga-nos seu nome de campeão, para que possamos continuar nossa aventura.Para o início de sua jornada, escolha umas das regiões, e em seguida escolha um mestre que melhor se encaixe a você.?
+1 4# (Garen)Então quer ingressar aos campos da justiça? Contudo não ache que será fácil, você será testado pelos valores de Demácia e pelas suas capacidades de combate, porém agora responda as seguintes perguntas, para o julgamento de seu caráter:O que você faria se caso visse alguém espancando alguma pessoa frágil nas ruas de Demácia?
+1 5# Agora que seu caráter foi julgado, tenho uma missão, e caso você cumpra a mesma, estará realmente pronto para os campos da justiça, contudo essa missão é extremamente perigosa, e você poderá perder sua vida! Deseja continuar?
+1 6# Sua missão será, achar um espião de Noxus, que entrou em Demácia, e busca roubar informações preciosas, contudo você não irá sozinho, meu amigo e valente soldado Xin Zhao, irá acompanha-lo nessa missão.Voces encontram rastros do espião escondido nos esgotos, e ambos adentram corajosamente, voce percebe que algo está errado, e antes que pudesse dizer qualquer coisa, o espião ataca Xin Zhao e corre, então você:
+1 7# Chega ao quartel general de Garen, e então Garen sentado em sua cadeira com uma expressão séria, se levanta e se ajoelha agradecendo seus esforços para salvar a vida de seu amigo, com isso todos que estava no quartel fazem o mesmo, logo depois, um mensageiro entra no quartel e anuncia que o espião foi preso, quando ainda tentava escapar. Garen então se levanta e diz A glória de Demácia nunca se apagará! Em nome do rei você poderá adentrar nos campos da justiça. .... (“VITÓRIA”) 
+1 8# Aqueles que não completam suas missões são considerados lixos, mas aqueles que abandonam seus amigos são piores do que lixo!...“GAME OVER! 
+1 9# Para os que não buscam saber, não são dignos de continuar... “GAME OVER! 
+1 10# Lhe falta querer e ambição, não queremos pessoas como você na Liga das Lendas... “GAME OVER! ”
+1 11# Você não tem honra, não protege os fracos e indefesos, não serei seu mestre, mas te aconselho Katarina de Noxus,“GAME OVER! 
+2 12# 0$ Sim!
+2 13# 0$ Nao!
+2 14# 0$ Sim, estou pronto! !
+2 15# 0$ Eu não sei, parece perigoso. !
+2 16# 0$ Garen: É um guerreiro de Demácia que devotou sua vida a defender o seu reino e seus ideais. Com sua armadura resistente à magia e espada montante, Garen arrisca a vida pela sua nação e seus soldados. 
+2 17# 0$ Eu só olharia e não faria nada, ele tem que ser forte o bastante para poder se defender e revidar. : Você não tem honra, não protege os fracos e indefesos, não serei seu mestre, mas te aconselho Katarina de Noxus, pois ambos pensam de mesma forma desprezível. Vai pra Noxus, ter Katarina como mestre 
+2 18# 0$ Eu certamente ajudaria a pobre pessoa e o resgataria de seu agressor, e também puniria de forma justa o mesmo. : Muito bem, você possui a justiça demaciana em seu coração!
+2 19# 0$ Eu tenho a coragem necessária para aceita-la! : ... Continua (apto a missão evento).
+2 20# 0$ Estou com medo! Irei embora! : “Como assim? Você tem problema? Uma vez no jogo você não poderá desistir, jogue até o final mané! 
+2 21# 0$ Corre atrás do espião, impedindo que os segredos de Demácia sejam revelados e deixa Xin Zhao morrer.
+2 22# 0$ Socorre rapidamente Xin Zhao e o leva a um lugar seguro para poder ser tratado, porém deixa o espião fugir com os segredos de Demácia.
+3 23# 1$ 12
+3 24# 1$ 13
+3 25# 2$ 14
+3 26# 2$ 15
+3 27# 3$ 16
+3 28# 4$ 17
+3 29# 4$ 18
+3 30# 5$ 19
+3 31# 5$ 20
+3 32# 6$ 21
+3 33# 6$ 22
+4 34# 12$ 2
+4 35# 13$ 9
+4 36# 14$ 3
+4 37# 15$ 10
+4 38# 16$ 4
+4 39# 17$ 11
+4 40# 18$ 5
+4 41# 19$ 6
+4 42# 20$ 6
+4 43# 21$ 8
+4 44# 22$ 7
+9
